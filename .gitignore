@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# ML model weights
+*.pth
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
